@@ -1,1 +1,1 @@
-INSERT INTO bears (name) values ('')
+INSERT INTO bears (name) VALUES ('Mr. Chocolate');
